@@ -2,7 +2,7 @@
 
 ### Visual Designer • Software Engineer • Creative Technologist
 
-I operate at the intersection of **design and technology** — creating visual identities, designing digital experiences, and building software from the ground up.
+I operate at the intersection of **design and technology** creating visual identities, designing digital experiences, and building software from the ground up.
 
 I'm particularly interested in how **creative thinking, software engineering, and cybersecurity** can come together to build better digital products.
 
@@ -12,16 +12,17 @@ I'm particularly interested in how **creative thinking, software engineering, an
 
 I'm a Visual Designer and Software Engineer focused on turning ideas into functional, meaningful digital experiences.
 
-My journey started from visual design and gradually expanded into web development and software engineering. Today, I work across both sides of the product — from **visual identity and UI/UX** to **frontend development, backend systems, APIs, and databases**.
+My journey started from visual design and gradually expanded into web development and software engineering. Today, I work across both sides of the product from **visual identity and UI/UX** to **frontend development, backend systems, APIs, and databases**.
 
-- 🎨 I create visual identities, graphics, UI/UX designs, and digital experiences.
+- 🎨 I create visual identities, graphics, and digital experiences.
 - 💻 I build web applications and software from scratch.
 - 🌐 Currently developing with **Python, Flask, JavaScript, HTML, CSS, and Tailwind CSS**.
 - ⚛️ Expanding into **React and modern frontend development**.
 - 🔐 Exploring **cybersecurity, authentication, APIs, and secure application architecture**.
 - 🧠 Interested in the intersection of **design, engineering, AI, and emerging technology**.
 - 🚀 Building toward becoming a stronger full-stack software engineer while maintaining my creative edge.
-
+  
+#### 📍Nigeria  ||  📧 badmusolasubomi2@gmail.com  ||
 ---
 
 ## 🛠️ Tech Stack
@@ -162,3 +163,31 @@ Full-Stack Applications
 Cybersecurity
    ↓
 Scalable Software Systems
+```
+---
+
+### 📚 Education
+         B.Sc Cyber Security (In Progress) – Precious Cornerstone University (2025 – Present)
+         Full‑Stack Web Development – Pediforte Coding Academy (2026)
+---
+
+## 📫 Let's Connect
+<p>
+  <a href="https://github.com/BoyAloneGraphix001">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+   <a href="https://www.instagram.com/boyalonegraphix">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/badmus-michael">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://boyalonegraphix.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+##### *"One Creative Mind."*
+
