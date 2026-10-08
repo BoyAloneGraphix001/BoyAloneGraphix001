@@ -133,7 +133,7 @@ A full-stack blog platform built with Flask.
 
 Creative technology brand focused on visual identity, digital design, websites, and software.
 
-**Focus:** Branding • Visual Design • UI/UX • Web Development • Technology
+**Focus:** Branding • Visual Design • Web Development • Technology
 
 ---
 
