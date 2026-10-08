@@ -53,7 +53,7 @@ My journey started from visual design and gradually expanded into web developmen
 
 ### Design
 
-**Adobe Photoshop • Adobe Illustrator • Figma • UI/UX • Brand Identity • Visual Design**
+**Adobe Photoshop • Adobe Illustrator • CorelDraw • Adobe Lightroom •**
 
 ---
 
