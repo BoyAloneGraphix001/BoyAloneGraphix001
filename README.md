@@ -69,7 +69,6 @@ A full-stack blog application built while expanding my backend engineering skill
 - Login / logout
 - Password hashing
 - User sessions
-- Create, update & delete posts
 - Database integration
 - Flask-SQLAlchemy
 - Flask-Migrate
@@ -110,7 +109,6 @@ I'm also developing my understanding of cybersecurity with particular interest i
 - Logo Design
 - Brand Identity
 - Visual Design
-- UI/UX Design
 - Website Design
 - Web Development
 - Digital Graphics
