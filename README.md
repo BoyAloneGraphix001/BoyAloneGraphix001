@@ -164,6 +164,7 @@ Scalable Software Systems
 
 ### 📚 Education
          B.Sc Cyber Security (In Progress) – Precious Cornerstone University (2025 – Present)
+         Frontend Web Development - Creativity World Academy (2022)
          Full‑Stack Web Development – Pediforte Coding Academy (2026)
 ---
 
