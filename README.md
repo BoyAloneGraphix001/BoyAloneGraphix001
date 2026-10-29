@@ -58,9 +58,13 @@ My journey started from visual design and gradually expanded into web developmen
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
-### Design
+### Design Tools
 
-**Adobe Photoshop • Adobe Illustrator • Adobe Lightroom • CorelDraw •**
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe_Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-00A651?style=for-the-badge&logo=coreldraw&logoColor=white)
+
 
 ---
 
