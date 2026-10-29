@@ -5,14 +5,15 @@
 I operate at the intersection of **design and technology** creating visual identities, designing digital experiences, and building software from the ground up.
 
 I'm particularly interested in how **creative thinking, software engineering, and cybersecurity** can come together to build better digital products.
-#### 📍Nigeria  ||  📧 badmusolasubomi2@gmail.com 
+#### 📍Nigeria  ||  
+📧 badmusolasubomi2@gmail.com 
 ---
 
 ## 🚀 About Me
 
 I'm a Visual Designer and Software Engineer focused on turning ideas into functional, meaningful digital experiences.
 
-My journey started from visual design and gradually expanded into web development and software engineering. Today, I work across both sides of the product from **visual identity and UI/UX** to **frontend development, backend systems, APIs, and databases**.
+My journey started from visual design and gradually expanded into web development and software engineering. Today, I work across both sides of the product from **visual identity** to **frontend development, backend systems, APIs, and databases**.
 
 - 🎨 I create visual identities, graphics, and digital experiences.
 - 💻 I build web applications and software from scratch.
