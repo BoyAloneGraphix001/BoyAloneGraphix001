@@ -22,6 +22,12 @@ My journey started from visual design and gradually expanded into web developmen
 - 🚀 Building toward becoming a stronger full-stack software engineer while maintaining my creative edge.
 ---
 
+### 🏆 Awards
+
+- 🥇 [Visual Designer] — *NACOS PCU CHAPTER, 2026*
+
+---
+
 ## 🛠️ Tech Stack
 
 
