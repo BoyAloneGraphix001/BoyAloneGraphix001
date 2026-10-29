@@ -5,7 +5,7 @@
 I operate at the intersection of **design and technology** creating visual identities, designing digital experiences, and building software from the ground up.
 
 I'm particularly interested in how **creative thinking, software engineering, and cybersecurity** can come together to build better digital products.
-#### 📍Nigeria  ||  📧 badmusolasubomi2@gmail.com  ||
+#### 📍Nigeria  ||  📧 badmusolasubomi2@gmail.com 
 ---
 
 ## 🚀 About Me
@@ -16,8 +16,6 @@ My journey started from visual design and gradually expanded into web developmen
 
 - 🎨 I create visual identities, graphics, and digital experiences.
 - 💻 I build web applications and software from scratch.
-- 🌐 Currently developing with **Python, Flask, JavaScript, HTML, CSS, and Tailwind CSS**.
-- ⚛️ Expanding into **React and modern frontend development**.
 - 🔐 Exploring **cybersecurity, authentication, APIs, and secure application architecture**.
 - 🧠 Interested in the intersection of **design, engineering, AI, and emerging technology**.
 - 🚀 Building toward becoming a stronger full-stack software engineer while maintaining my creative edge.
@@ -58,9 +56,9 @@ My journey started from visual design and gradually expanded into web developmen
 
 ## 🔭 Currently Building
 
-# 📝 Flask Blog Platform
-# 🎓 CourseHub
-# 🧱 DevEvent
+#### 📝 Flask Blog Platform
+#### 🎓 CourseHub
+#### 🧱 DevEvent
 
 
 
