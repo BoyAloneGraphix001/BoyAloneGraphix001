@@ -56,11 +56,11 @@ My journey started from visual design and gradually expanded into web developmen
 
 ---
 
-## 🔭 Currently Building & Learning
+## 🔭 Currently Building
 
-### 📝 Flask Blog Platform
-### 🎓 CourseHub
-### 🧱 DevEvent
+# 📝 Flask Blog Platform
+# 🎓 CourseHub
+# 🧱 DevEvent
 
 
 
@@ -75,8 +75,6 @@ My journey started from visual design and gradually expanded into web developmen
 - Logo Design
 - Brand Identity
 - Visual Design
-- Website Design
-- Web Development
 - Digital Graphics
 
 The long-term vision is to grow BoyAlone Graphix beyond a design brand into a **technology-driven creative studio**.
