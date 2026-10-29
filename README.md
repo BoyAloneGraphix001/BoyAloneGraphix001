@@ -59,43 +59,10 @@ My journey started from visual design and gradually expanded into web developmen
 ## 🔭 Currently Building & Learning
 
 ### 📝 Flask Blog Platform
+### 🎓 CourseHub
+### 🧱 DevEvent
 
-A full-stack blog application built while expanding my backend engineering skills.
 
-**Current capabilities:**
-
-- User registration & authentication
-- Login / logout
-- Password hashing
-- User sessions
-- Database integration
-- Flask-SQLAlchemy
-- Flask-Migrate
-- Form validation
-- Environment configuration
-- CRUD architecture
-
-**Stack:** Python • Flask • SQLAlchemy • SQLite • HTML • CSS
-
----
-
-### ⚛️ React & Modern Frontend
-
-I'm currently expanding from traditional HTML/CSS/JavaScript development into modern component-based frontend architecture with **React, Vite, APIs, and modern UI patterns**.
-
----
-
-### 🔐 Cybersecurity
-
-I'm also developing my understanding of cybersecurity with particular interest in:
-
-- Network security
-- Web application security
-- Authentication & authorization
-- API security
-- Secure software architecture
-- Networking fundamentals
-- Security tools and analysis
 
 ---
 
@@ -114,25 +81,6 @@ I'm also developing my understanding of cybersecurity with particular interest i
 
 The long-term vision is to grow BoyAlone Graphix beyond a design brand into a **technology-driven creative studio**.
 
----
-
-## 📁 Selected Projects
-
-### Flask Blog
-
-A full-stack blog platform built with Flask.
-
-**Features:** Authentication • CRUD • Database • Forms • Migrations • User Management
-
-**Technologies:** Python • Flask • SQLAlchemy • SQLite • HTML • CSS
-
----
-
-### BoyAlone Graphix
-
-Creative technology brand focused on visual identity, digital design, websites, and software.
-
-**Focus:** Branding • Visual Design • Web Development • Technology
 
 ---
 
