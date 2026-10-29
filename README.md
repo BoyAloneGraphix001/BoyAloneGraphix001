@@ -5,8 +5,8 @@
 I operate at the intersection of **design and technology** creating visual identities, designing digital experiences, and building software from the ground up.
 
 I'm particularly interested in how **creative thinking, software engineering, and cybersecurity** can come together to build better digital products.
-#### 📍Nigeria  ||  
-📧 badmusolasubomi2@gmail.com 
+#### 📍Nigeria   
+#### 📧 badmusolasubomi2@gmail.com 
 ---
 
 ## 🚀 About Me
