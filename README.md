@@ -100,30 +100,6 @@ The long-term vision is to grow BoyAlone Graphix beyond a design brand into a **
 
 ---
 
-## 📚 Learning Roadmap
-
-I'm continuously expanding my engineering capabilities across:
-
-```text
-Python
-   ↓
-Flask
-   ↓
-REST APIs
-   ↓
-Databases
-   ↓
-Authentication & OAuth
-   ↓
-React
-   ↓
-Full-Stack Applications
-   ↓
-Cybersecurity
-   ↓
-Scalable Software Systems
-```
----
 
 ### 📚 Education
          B.Sc Cyber Security (In Progress) – Precious Cornerstone University (2025 – Present)
