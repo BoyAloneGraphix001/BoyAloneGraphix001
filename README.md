@@ -1,6 +1,6 @@
-# Hey, I'm BoyAlone Graphix 👋
+# Hey, I'm Olasubomi 👋
 
-### Visual Designer • Software Engineer • Creative Technologist
+### Software Engineer • Product Engineer • Creative Technologist
 
 I operate at the intersection of **design and technology** creating visual identities, designing digital experiences, and building software from the ground up.
 
